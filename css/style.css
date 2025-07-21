@@ -58,7 +58,7 @@ h1 span{
 
 ::-moz-selection {
   background: #fff;
-  color:ff4f4f;
+  color:e69138;
 }
 
 
@@ -425,7 +425,7 @@ h1 span{
 }
 
 .about-us .column-two .circle-two:hover{
-  background: url(../img/icons/minimalist.png) #ff4f4f no-repeat center center;
+  background: url(../img/icons/minimalist.png) #e69138 no-repeat center center;
 }
 
 
@@ -456,7 +456,7 @@ h1 span{
 }
 
 .about-us .column-three .circle-three:hover{ 
-  background: url(../img/icons/free.png) #ff4f4f no-repeat center center;
+  background: url(../img/icons/free.png) #e69138 no-repeat center center;
 }
 
 
@@ -809,4 +809,3 @@ textarea{
   padding-right:25px;
   color:#5f666e;
 }
-
